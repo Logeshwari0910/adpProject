@@ -1,0 +1,5 @@
+<!DOCTYPE html>
+<html>
+ <body>
+<hl>college</hl>
+<img src="c:bbjn.webp width="200px"breadth="200px"></body>/<img>   

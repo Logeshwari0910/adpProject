@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head><title>TEACHER APPLICATION FORM</title></head>
+<h1><b>TEACHER APPLICATION FORM</b></h1>
+<h2>JOB DETAILS</h2>
+<body>
+<label for>="job title"</label for>
+<input type="text" name="job title">
+<br></br>       

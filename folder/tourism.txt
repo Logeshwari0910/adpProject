@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>TOURISM</title>
+<style>
+    body{
+        background-image: url(https://www.tripadvisor.in/Attractions-g424926-Activities-Thanjavur_Thanjavur_District_Tamil_Nadu.html);
+        background-size: cover; 
+        background-repeat: no-repeat;
+        background-color:rgb(125, 205, 205);
+        color:red; 
+ </style>
+ <hl><b></b>       
